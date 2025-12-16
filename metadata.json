@@ -1,0 +1,7 @@
+{
+  "name": "Cultivating Grit - AI Coach",
+  "description": "A dynamic platform for personal growth featuring a real-time AI resilience coach.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
