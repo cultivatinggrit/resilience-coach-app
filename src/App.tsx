@@ -1,8 +1,7 @@
-import React from 'react';
-import { Hero } from './components/Hero';
-import { VoiceCoach } from './components/VoiceCoach';
-import { Features } from './components/Features';
-import { Footer } from './components/Footer';
+import Hero from "../components/Hero";
+import Features from "../components/Features";
+import Footer from "../components/Footer";
+import VoiceCoach from "../components/VoiceCoach";
 
 const App: React.FC = () => {
   return (
